@@ -8,7 +8,7 @@ Educational machine learning tutorials with interactive Jupyter notebooks. Each 
 
 | Tutorial | Notebook | Companion Blog Post |
 |----------|----------|---------------------|
-| EM Algorithm: Inferring Hidden Coin Bias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhubarb/ml-tutorials/blob/main/notebooks/bayesian/em_coin_toss.ipynb) | [Read Post](https://sesen.ai/blog/em-algorithm-coin-toss-intuitive-guide) |
+| EM Algorithm: Inferring Hidden Coin Bias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhubarb/sesen_ai_ml_tutorials/blob/main/notebooks/bayesian/em_coin_toss.ipynb) | [Read Post](https://sesen.ai/blog/em-algorithm-coin-toss-intuitive-guide) |
 
 ### Coming Soon
 
